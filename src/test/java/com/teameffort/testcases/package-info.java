@@ -1,3 +1,10 @@
 package com.teameffort.testcases;
 
-system.out.println("Hi Zyndrahr")
+
+public static void main(String[] args)   
+	
+	{
+		
+	System.out.println("parameter"); 
+
+	}
